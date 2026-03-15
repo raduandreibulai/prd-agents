@@ -74,7 +74,7 @@ Designed to be extended with:
 - Web UI
 - Vector database integration
 ### Why I Built This
-As a Product Manager, I noticed that meetings generate decisions — but rarely structured execution artifacts.
+As a Product Manager, I noticed that meetings generate decisions but rarely structured execution artifacts.
 PRD Agents automates the path from messy conversation to execution clarity.
 It’s an experiment in operational AI:
 What if your product team could be partially encoded?
@@ -97,25 +97,3 @@ Built by Radu Bulai
 Product x AI Systems
 
 ---
-
-# 🔥 Why This Version Works
-
-It:
-
-- Feels like a real system
-- Has a clear hook
-- Has structured quick start
-- Shows example outputs
-- Signals credibility
-- Signals future expansion
-- Positions you as a system builder
-
----
-
-If you want next, I can:
-
-- Make a shorter “lean hacker” version  
-- Make a more technical architect-level version  
-- Or help you design a visual diagram to embed at top  
-
-This is already strong enough to stand on its own.
