@@ -61,32 +61,8 @@ prd.md
 jira_plan.json
 roi_model.md
 notes.md
-Example Output
-PRD (Excerpt)
-Problem:
-Low enrollment rate on APL landing page.
 
-Hypothesis:
-Introducing trust markers above the fold will increase Direct-to-MP rate by 8–12%.
-
-Success Metrics:
-- Direct-to-MP Rate
-- Enrollment Rate
-- Marketing Margin
-Jira Plan (Excerpt)
-{
-  "epic": "APL Landing Page Revamp",
-  "stories": [
-    {
-      "title": "Add trust markers above fold",
-      "acceptance_criteria": [
-        "Trust badges visible on mobile and desktop",
-        "A/B test enabled 50/50 split"
-      ]
-    }
-  ]
-}
-Architecture
+**Architecture**
 The system follows a modular multi-agent orchestration pattern:
 - Agents are isolated and specialized
 - Orchestrator controls sequencing
